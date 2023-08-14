@@ -865,7 +865,7 @@ ul.footer a:hover, .footer-iconlist a:hover {
 /* Desktop */
 @media (min-width: 980px) {
     header, .gradient-overlay {
-        height: 85rem;
+        height: 90rem;
     }
     
     .hamburger {
@@ -878,7 +878,7 @@ ul.footer a:hover, .footer-iconlist a:hover {
     }
     
     svg.logo-header {
-        height: 5.5rem;
+        height: 5rem;
     }
 
     ul.menu {
@@ -890,7 +890,7 @@ ul.footer a:hover, .footer-iconlist a:hover {
         left: 0;
         top: 0;
 
-        font-size: 2rem;
+        font-size: 1.75rem;
 
         background: none;
     }
@@ -920,14 +920,14 @@ ul.footer a:hover, .footer-iconlist a:hover {
     h4.phonebtn {
         font-family: "Montserrat", sans-serif;
         font-weight: 300;
-        font-size: 2.2rem;
+        font-size: 1.6rem;
     }
 
     h5.phonebtn a {
         font-family: "Inter", sans-serif;
         color: white;
         font-weight: 700;
-        font-size: 1.6rem;
+        font-size: 1.4rem;
 
         transition: 250ms ease;
     }
@@ -941,6 +941,7 @@ ul.footer a:hover, .footer-iconlist a:hover {
     }
     
     h1.main {
+        margin-top: 5vh;
         font-size: 6.4rem;
     }
     
